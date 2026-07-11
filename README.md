@@ -208,26 +208,22 @@ A single codebase ensures consistency, scalability, and maintainability.
 <table>
 <tr>
 <td align="center">
-<img src="1M.jpg" width="420"><br><br>
+<img src="2M.jpg" width="420"><br><br>
 <b>💬 Real-Time Chat</b>
 </td>
 
 <td align="center">
-<img src="2M.jpg" width="420"><br><br>
+<img src="3M.jpg" width="420"><br><br>
 <b>📅 Smart Calendar</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="3M.jpg" width="420"><br><br>
+<img src="4M.jpg" width="420"><br><br>
 <b>🔔 Reminder System</b>
 </td>
 
-<td align="center">
-<img src="4M.jpg" width="420"><br><br>
-<b>✨ Premium User Interface</b>
-</td>
 </tr>
 </table>
 
